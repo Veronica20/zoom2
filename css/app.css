@@ -1,0 +1,140 @@
+.navbar-laravel {
+    background-color: #fff;
+    -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.JustInput {
+    width: 100%;
+    border: none;
+    padding: 3px;
+    border-bottom: 1px solid #C4C4C4;
+    margin-top: 9px;
+}
+
+.SelectBox {
+    width: 90%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.FormDiv > div {
+    margin-bottom: 28px;
+    position: relative;
+}
+
+.stepsDiv {
+    background-color: #F3F3F3;
+}
+
+.stepsDiv > div {
+    margin-top: 34px;
+}
+
+.activeStep {
+    background: #01A119 !important;
+}
+
+.step {
+    background: #727272;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 1px 7px;
+    color: white;
+    margin: 21px auto;
+    margin-left: 15px;
+}
+
+.textColor {
+    color: #C4C4C4;
+}
+
+.parentDiv {
+    width: 69%;
+    margin: 40px auto;
+}
+
+.Login {
+    width: 41%;
+}
+
+.FormDiv label {
+    font-weight: 400;
+    position: absolute;
+    top: -13px;
+}
+
+#image {
+    position: relative;
+    display: inline-block;
+    margin-left: 14px;
+    color: transparent;
+}
+
+.continue {
+    background: #01A119;
+    padding: 13px 24px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    margin: 20px  0  0 44%;
+    text-transform: capitalize;
+}
+
+.radio {
+    display: inline-block !important;
+    margin: 5px;
+}
+
+.loanMain > form > div {
+    margin: 40px 0;
+}
+
+.Login > form > h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.login_email_icon,
+.login_pass_icon {
+    display: inline-block;
+    margin-top: 24px;
+    margin-right: 16px;
+    font-size: 18px;
+    color: #01a119;
+}
+
+.login_email_icon + input {
+    margin-top: 9px;
+    margin-bottom: 7px;
+}
+
+.emailDiv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.logOutClass {
+    padding-top: 20px;
+    text-transform: capitalize;
+}
+
+.logOutClass a {
+    color: black;
+}
+
+.login_title {
+    border-bottom: 2px solid #01a119;
+    padding-bottom: 6px;
+}
+.error{
+    color: red;
+}
+.errorParent{
+    padding-left: 30px;
+}
+#county{
+    width: 100%;
+}
